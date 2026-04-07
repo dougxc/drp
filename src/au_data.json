@@ -1,0 +1,174 @@
+{
+  "questions": [
+    {
+      "question": {
+        "de": "In 1932, the Australian military was deployed to deal with a specific animal population in what became known as the 'Great War.' Which animal won this conflict?",
+        "fr": "En 1932, l'armée australienne a été déployée pour faire face à une population animale spécifique dans ce qui est devenu la 'Grande Guerre'. Quel animal a gagné ce conflit ?",
+        "it": "Nel 1932, l'esercito australiano fu schierato per affrontare una specifica popolazione animale in quella che divenne nota come la 'Grande Guerra'. Quale animale vinse questo conflitto?",
+        "rm": "L'onn 1932 è l'armada australiana vegnida involvida per far frunt ad ina populaziun d'animals specifica en quella che è vegnida enconuschenta sco la 'Gronda Guerra'. Qual animal ha gudagnà quest conflict?",
+        "en": "In 1932, the Australian military was deployed to deal with a specific animal population in what became known as the 'Great War.' Which animal won this conflict?"
+      },
+      "options": {
+        "de": ["The Emus", "The Kangaroos", "The Australian Army"],
+        "fr": ["Les Émeus", "Les Kangourous", "L'armée australienne"],
+        "it": ["Gli Emu", "I Canguri", "L'esercito australiano"],
+        "rm": ["Ils Emus", "Ils Cangurs", "L'armada australiana"],
+        "en": ["The Emus", "The Kangaroos", "The Australian Army"]
+      },
+      "answer": 0
+    },
+    {
+      "question": {
+        "de": "What is unique about the waste produced by a Wombat?",
+        "fr": "Quelle est la particularité des excréments produits par un wombat ?",
+        "it": "Cosa c'è di unico negli escrementi prodotti da un vombato?",
+        "rm": "Tge è spezial vi dal rument che in vombat producescha?",
+        "en": "What is unique about the waste produced by a Wombat?"
+      },
+      "options": {
+        "de": ["It glows in the dark", "It is cube-shaped", "It smells like eucalyptus"],
+        "fr": ["Il brille dans le noir", "Il est de forme cubique", "Il sent l'eucalyptus"],
+        "it": ["Brilla al buio", "È a forma di cubo", "Profuma di eucalipto"],
+        "rm": ["I glischa en il stgir", "I ha la furma d'in dadi", "I palpa tenor eucaliptus"],
+        "en": ["It glows in the dark", "It is cube-shaped", "It smells like eucalyptus"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Why are the Kangaroo and the Emu featured on the Australian Coat of Arms?",
+        "fr": "Pourquoi le kangourou et l'émeu figurent-ils sur les armoiries de l'Australie ?",
+        "it": "Perché il canguro e l'emu compaiono sullo stemma dell'Australia?",
+        "rm": "Pertge èn il cangur e l'emu represchentads sin las insignas da l'Australia?",
+        "en": "Why are the Kangaroo and the Emu featured on the Australian Coat of Arms?"
+      },
+      "options": {
+        "de": ["They are the only animals that cannot walk backward", "They were the most delicious animals found by settlers", "They are the only animals that survived the Great Ice Age"],
+        "fr": ["Ce sont les seuls animaux qui ne peuvent pas reculer", "C'étaient les animaux les plus délicieux trouvés par les colons", "Ce sont les seuls animaux à avoir survécu à la grande ère glaciaire"],
+        "it": ["Sono gli unici animali che non possono camminare all'indietro", "Erano gli animali più deliziosi trovati dai coloni", "Sono gli unici animali sopravvissuti alla grande era glaciale"],
+        "rm": ["Els èn ils sulets animals che na pon betg marchar anavos", "Els eran ils pli dultscha animals che ils colonisaturs han chattà", "Els èn ils sulets animals che han survivì la gronda perioda da glatsch"],
+        "en": ["They are the only animals that cannot walk backward", "They were the most delicious animals found by settlers", "They are the only animals that survived the Great Ice Age"]
+      },
+      "answer": 0
+    },
+    {
+      "question": {
+        "de": "In 1967, Prime Minister Harold Holt disappeared while swimming. How did Australia later commemorate him?",
+        "fr": "En 1967, le Premier ministre Harold Holt a disparu en nageant. Comment l'Australie l'a-t-elle commémoré plus tard ?",
+        "it": "Nel 1967, il Primo Ministro Harold Holt scomparve mentre nuotava. In che modo l'Australia lo commemorò in seguito?",
+        "rm": "L'onn 1967 è il primminister Harold Holt svanì durant ch'el nadaiva. Co ha l'Australia commemorà el pli tard?",
+        "en": "In 1967, Prime Minister Harold Holt disappeared while swimming. How did Australia later commemorate him?"
+      },
+      "options": {
+        "de": ["They named a mountain after him", "They named a swimming center after him", "They banned swimming at that specific beach"],
+        "fr": ["Ils ont donné son nom à une montagne", "Ils ont donné son nom à un centre de natation", "Ils ont interdit la baignade sur cette plage spécifique"],
+        "it": ["Gli intitolarono una montagna", "Gli intitolarono un centro balneare", "Vietarono la balneazione in quella specifica spiaggia"],
+        "rm": ["Els han numnà ina muntogna tenor el", "Els han numnà in center da nudar tenor el", "Els han defendì da nudar vid quella splagia specifica"],
+        "en": ["They named a mountain after him", "They named a swimming center after him", "They banned swimming at that specific beach"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Former PM Bob Hawke once held a world record for which of the following activities?",
+        "fr": "L'ancien Premier ministre Bob Hawke a détenu un record du monde pour laquelle des activités suivantes ?",
+        "it": "L'ex Primo Ministro Bob Hawke detenne un record mondiale per quale delle seguenti attività?",
+        "rm": "L'anteriur primminister Bob Hawke ha ina giada gì in record mundial per quala da las suandantas activitads?",
+        "en": "Former PM Bob Hawke once held a world record for which of the following activities?"
+      },
+      "options": {
+        "de": ["Shearing a sheep in under a minute", "Sculling 2.5 pints of beer in 11 seconds", "Winning a marathon in work boots"],
+        "fr": ["Tondre un mouton en moins d'une minute", "Boire 2,5 pintes de bière cul sec en 11 secondes", "Gagner un marathon en bottes de travail"],
+        "it": ["Tosare una pecora in meno di un minuto", "Bere 2,5 pinte di birra in 11 secondi", "Vincere una maratona con gli stivali da lavoro"],
+        "rm": ["Tunder ina nursa en damain d'ina minuta", "Sperder 2,5 pintas biera en 11 secundas", "Gudagnar in maraton cun stivals da lavur"],
+        "en": ["Shearing a sheep in under a minute", "Sculling 2.5 pints of beer in 11 seconds", "Winning a marathon in work boots"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "If you visited one new Australian beach every day, how long would it take to see them all?",
+        "fr": "Si vous visitiez une nouvelle plage australienne chaque jour, combien de temps faudrait-il pour toutes les voir ?",
+        "it": "Se visitassi una nuova spiaggia australiana ogni giorno, quanto tempo ci vorrebbe per vederle tutte?",
+        "rm": "Sche ti visitassas mintga di ina nova splagia australiana, quants onns durass quai fin che ti has vis tuttas?",
+        "en": "If you visited one new Australian beach every day, how long would it take to see them all?"
+      },
+      "options": {
+        "de": ["About 5 years", "Over 27 years", "Exactly 10 years"],
+        "fr": ["Environ 5 ans", "Plus de 27 ans", "Exactement 10 ans"],
+        "it": ["Circa 5 anni", "Oltre 27 anni", "Esattamente 10 anni"],
+        "rm": ["Radund 5 onns", "Passa 27 onns", "Precis 10 onns"],
+        "en": ["About 5 years", "Over 27 years", "Exactly 10 years"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "What is the mythical 'Drop Bear' used for in Australian culture?",
+        "fr": "À quoi sert le mythique 'Drop Bear' dans la culture australienne ?",
+        "it": "A cosa serve il mitico 'Drop Bear' nella cultura australiana?",
+        "rm": "Per tge vegn il mythic 'Drop Bear' utilisà en la cultura australiana?",
+        "en": "What is the mythical 'Drop Bear' used for in Australian culture?"
+      },
+      "options": {
+        "de": ["To terrify and prank tourists", "To teach children about forest safety", "To celebrate the harvest season"],
+        "fr": ["Pour terrifier et faire des blagues aux touristes", "Pour enseigner aux enfants la sécurité en forêt", "Pour célébrer la saison des récoltes"],
+        "it": ["Per spaventare e fare scherzi ai turisti", "Per insegnare ai bambini la sicurezza nei boschi", "Per celebrare la stagione del raccolto"],
+        "rm": ["Per spaventar e far sgnoccas als turists", "Per instruir ils uffants davart la segirezza en il guaud", "Per celebrar il temp da la racolta"],
+        "en": ["To terrify and prank tourists", "To teach children about forest safety", "To celebrate the harvest season"]
+      },
+      "answer": 0
+    },
+    {
+      "question": {
+        "de": "What is 'Fairy Bread,' a staple of Australian children's parties?",
+        "fr": "Qu'est-ce que le 'Fairy Bread', un incontournable des fêtes d'enfants australiennes ?",
+        "it": "Cos'è il 'Fairy Bread', un classico delle feste per bambini in Australia?",
+        "rm": "Tge è il 'Fairy Bread', in element central da las festas d'uffants australianas?",
+        "en": "What is 'Fairy Bread,' a staple of Australian children's parties?"
+      },
+      "options": {
+        "de": ["Bread shaped like wings", "White bread with butter and sprinkles", "Sweet dough filled with jam"],
+        "fr": ["Du pain en forme d'ailes", "Du pain blanc avec du beurre et des vermicelles colorés", "Une pâte sucrée fourrée à la confiture"],
+        "it": ["Pane a forma di ali", "Pane bianco con burro e zuccherini colorati", "Pasta dolce ripiena di marmellata"],
+        "rm": ["Paun en furma d'ala", "Paun alb cun paintg e sprinkles", "Pasta dultsch emplenida cun marmelada"],
+        "en": ["Bread shaped like wings", "White bread with butter and sprinkles", "Sweet dough filled with jam"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Australia has the world's largest population of wild camels. Which country do they actually export them to?",
+        "fr": "L'Australie possède la plus grande population de chameaux sauvages au monde. Vers quel pays les exporte-t-elle réellement ?",
+        "it": "L'Australia ha la più grande popolazione mondiale di cammelli selvatici. In quale paese li esporta effettivamente?",
+        "rm": "L'Australia ha la pli gronda populaziun da chamels selvadis dal mund. En qual pajais vegnan els exportads effectivamain?",
+        "en": "Australia has the world's largest population of wild camels. Which country do they actually export them to?"
+      },
+      "options": {
+        "de": ["Egypt", "Saudi Arabia", "The United States"],
+        "fr": ["L'Égypte", "L'Arabie saoudite", "Les États-Unis"],
+        "it": ["Egitto", "Arabia Saudita", "Stati Uniti"],
+        "rm": ["Egipta", "Arabia Saudita", "Ils Stadis Unids"],
+        "en": ["Egypt", "Saudi Arabia", "The United States"]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "What is 'Goon' in Australian slang?",
+        "fr": "Qu'est-ce que le 'Goon' dans l'argot australien ?",
+        "it": "Cos'è il 'Goon' nello slang australiano?",
+        "rm": "Tge è il 'Goon' en il slang australian?",
+        "en": "What is 'Goon' in Australian slang?"
+      },
+      "options": {
+        "de": ["A silly person", "Boxed wine", "A type of work boot"],
+        "fr": ["Une personne idiote", "Du vin en brique", "Un type de botte de travail"],
+        "it": ["Una persona sciocca", "Vino in cartone", "Un tipo di stivale da lavoro"],
+        "rm": ["Ina persuna memia simpla", "Vin en bosta", "In tip da stival da lavur"],
+        "en": ["A silly person", "Boxed wine", "A type of work boot"]
+      },
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "questions": [
+    {
+      "question": {
+        "de": "Wann ist die 'offizielle' Startzeit für ein spanisches Abendessen?",
+        "en": "What is the 'official' start time for a Spanish dinner?",
+        "es": "¿Cuál es la hora de inicio 'oficial' de una cena española?"
+      },
+      "options": {
+        "de": [
+          "18:00 Uhr (wie bei Oma)",
+          "21:30 Uhr (frühestens)",
+          "Wenn die Sonne aufgeht"
+        ],
+        "en": [
+          "6:00 PM (like at Grandma's)",
+          "9:30 PM (at the earliest)",
+          "When the sun rises"
+        ],
+        "es": [
+          "18:00 (como en casa de la abuela)",
+          "21:30 (como muy pronto)",
+          "Cuando sale el sol"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Wie nennt man eine 'Tortilla' ohne Zwiebeln in einer hitzigen spanischen Debatte?",
+        "en": "What is a 'tortilla' without onion called in a heated Spanish debate?",
+        "es": "¿Cómo se llama a una 'tortilla' sin cebolla en un acalorado debate español?"
+      },
+      "options": {
+        "de": [
+          "Ein gesundes Frühstück",
+          "Ein Verbrechen gegen die Menschlichkeit",
+          "Eine 'Tortilla für Anfänger'"
+        ],
+        "en": [
+          "A healthy breakfast",
+          "A crime against humanity",
+          "A 'tortilla for beginners'"
+        ],
+        "es": [
+          "Un desayuno saludable",
+          "Un crimen contra la humanidad",
+          "Una 'tortilla para principiantes'"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Wie viele Bars gibt es in Spanien?",
+        "en": "How many bars are there in Spain?",
+        "es": "¿Cuántos bares hay en España?"
+      },
+      "options": {
+        "de": [
+          "Genug, um den Rest der EU neidisch zu machen",
+          "Zwei pro Strasse (gesetzlich vorgeschrieben)",
+          "Mehr als die gesamte EU zusammen (fast)"
+        ],
+        "en": [
+          "Enough to make the rest of the EU jealous",
+          "Two per street (legally required)",
+          "More than the entire EU combined (almost)"
+        ],
+        "es": [
+          "Suficientes para dar envidia al resto de la UE",
+          "Dos por calle (obligatorio por ley)",
+          "Más que en toda la UE junta (casi)"
+        ]
+      },
+      "answer": 2
+    },
+    {
+      "question": {
+        "de": "Was machen Spanier zwischen 14:00 und 17:00 Uhr?",
+        "en": "What do Spaniards do between 2 PM and 5 PM?",
+        "es": "¿Qué hacen los españoles entre las 14:00 y las 17:00?"
+      },
+      "options": {
+        "de": [
+          "Überstunden machen",
+          "Alles schliessen und über den Sinn des Lebens nachdenken (Siesta)",
+          "Einen Marathon laufen"
+        ],
+        "en": [
+          "Work overtime",
+          "Close everything and rethink life (Siesta)",
+          "Run a marathon"
+        ],
+        "es": [
+          "Trabajar horas extras",
+          "Cerrar todo y reflexionar sobre el sentido de la vida (Siesta)",
+          "Correr un maratón"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Warum bewerfen sich die Leute in Buñol mit Tomaten?",
+        "en": "Why do people throw tomatoes at each other in Buñol?",
+        "es": "¿Por qué la gente se tira tomates en Buñol?"
+      },
+      "options": {
+        "de": [
+          "Wegen eines Mangels an Ketchup",
+          "Weil warum nicht?",
+          "Um den Tomatengott zu besänftigen"
+        ],
+        "en": [
+          "Because of a ketchup shortage",
+          "Because why not?",
+          "To appease the tomato god"
+        ],
+        "es": [
+          "Por falta de ketchup",
+          "Porque ¿por qué no?",
+          "Para apaciguar al dios del tomate"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Wie überlebt man einen spanischen Sommer?",
+        "en": "How do you survive a Spanish summer?",
+        "es": "¿Cómo se sobrevive a un verano español?"
+      },
+      "options": {
+        "de": [
+          "Mit einer dicken Wolljacke",
+          "Mit heruntergelassenen Jalousien (Persianas) und Siesta",
+          "Indem man heissen Tee trinkt"
+        ],
+        "en": [
+          "With a thick wool jacket",
+          "With lowered blinds (Persianas) and Siesta",
+          "By drinking hot tea"
+        ],
+        "es": [
+          "Con una chaqueta de lana gruesa",
+          "Bajando las persianas y durmiendo la siesta",
+          "Bebiendo té caliente"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Was ist die Tradition der '12 Weintrauben'?",
+        "en": "What is 'The 12 Grapes' tradition?",
+        "es": "¿Qué es la tradición de las '12 uvas'?"
+      },
+      "options": {
+        "de": [
+          "Ein Erstickungsrisiko an Silvester",
+          "Ein Rezept für einen sehr kleinen Obstsalat",
+          "Ein Test für die Geschicklichkeit der Zunge"
+        ],
+        "en": [
+          "A choking hazard on New Year's Eve",
+          "A recipe for a very small fruit salad",
+          "A test for tongue dexterity"
+        ],
+        "es": [
+          "Un riesgo de asfixia en Nochevieja",
+          "Una receta para una macedonia muy pequeña",
+          "Una prueba de destreza con la lengua"
+        ]
+      },
+      "answer": 0
+    },
+    {
+      "question": {
+        "de": "Wenn du eine 'caña' bestellst, was bekommst du?",
+        "en": "If you order a 'caña', what do you get?",
+        "es": "Si pides una 'caña', ¿qué te sirven?"
+      },
+      "options": {
+        "de": [
+          "Eine Angelrute",
+          "Ein kleines, kaltes Bier",
+          "Ein Glas Leitungswasser"
+        ],
+        "en": [
+          "A fishing rod",
+          "A small, cold beer",
+          "A glass of tap water"
+        ],
+        "es": [
+          "Una caña de pescar",
+          "Una cerveza pequeña y fría",
+          "Un vaso de agua del grifo"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Was ist eine wahre Zutat einer authentischen Paella?",
+        "en": "What is a true ingredient of an authentic Paella?",
+        "es": "¿Cuál es un ingrediente real de una paella auténtica?"
+      },
+      "options": {
+        "de": [
+          "Chorizo (laut Jamie Oliver)",
+          "Es kommt darauf an, wen man fragt, aber NIEMALS Chorizo",
+          "Ketchup und Mayo"
+        ],
+        "en": [
+          "Chorizo (according to Jamie Oliver)",
+          "It depends on who you ask, but NEVER chorizo",
+          "Ketchup and mayo"
+        ],
+        "es": [
+          "Chorizo (según Jamie Oliver)",
+          "Depende a quién preguntes, pero NUNCA chorizo",
+          "Ketchup y mayonesa"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Was ist 'El Gordo'?",
+        "en": "What is 'El Gordo'?",
+        "es": "¿Qué es 'El Gordo'?"
+      },
+      "options": {
+        "de": [
+          "Ein sehr grosser Sandwich",
+          "Die grösste Weihnachtslotterie der Welt",
+          "Der Spitzname des Bürgermeisters"
+        ],
+        "en": [
+          "A very large sandwich",
+          "The world's biggest Christmas lottery",
+          "The mayor's nickname"
+        ],
+        "es": [
+          "Un sándwich muy grande",
+          "La lotería de Navidad más grande del mundo",
+          "El apodo del alcalde"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Wie sagt man 'Ich komme' auf Spanisch?",
+        "en": "How do you say 'I'm coming' in Spanish?",
+        "es": "¿Cómo se dice 'I'm coming' (ya voy) en español?"
+      },
+      "options": {
+        "de": [
+          "'Ya voy' (bedeutet: ich bin in 30 Minuten da)",
+          "'Estoy allí' (bedeutet: ich bin schon da)",
+          "'Llego tarde' (bedeutet: ich fange erst gar nicht an)"
+        ],
+        "en": [
+          "'Ya voy' (means: I'll be there in 30 mins)",
+          "'Estoy allí' (means: I'm already there)",
+          "'Llego tarde' (means: I'm not even starting)"
+        ],
+        "es": [
+          "'Ya voy' (significa: estaré allí en 30 minutos)",
+          "'Estoy allí' (significa: ya he llegado)",
+          "'Llego tarde' (significa: ni siquiera voy a empezar)"
+        ]
+      },
+      "answer": 0
+    },
+    {
+      "question": {
+        "de": "Was ist eine 'Sobremesa'?",
+        "en": "What is a 'Sobremesa'?",
+        "es": "¿Qué es la 'sobremesa'?"
+      },
+      "options": {
+        "de": [
+          "Eine Tischdecke",
+          "Stundenlanges Reden nach dem Essen",
+          "Ein Dessert aus Resten"
+        ],
+        "en": [
+          "A tablecloth",
+          "Talking for hours after the meal is over",
+          "A dessert made of leftovers"
+        ],
+        "es": [
+          "Un mantel",
+          "Charlar durante horas después de comer",
+          "Un postre hecho con sobras"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Wo befindet sich die einzige Wüste Europas?",
+        "en": "Where is the only desert in Europe?",
+        "es": "¿Dónde está el único desierto de Europa?"
+      },
+      "options": {
+        "de": [
+          "In der Schweiz (im Winter)",
+          "In Almería",
+          "In London (wenn es nicht regnet)"
+        ],
+        "en": [
+          "In Switzerland (in winter)",
+          "In Almería",
+          "In London (when it's not raining)"
+        ],
+        "es": [
+          "En Suiza (en invierno)",
+          "En Almería",
+          "En Londres (cuando no llueve)"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Was ist das Nationaltier Spaniens?",
+        "en": "What is the national animal of Spain?",
+        "es": "¿Cuál es el animal nacional de España?"
+      },
+      "options": {
+        "de": [
+          "Der Stier (oder der Osborne-Stier auf Hügeln)",
+          "Die Flamenco-Tänzerin",
+          "Der Esel"
+        ],
+        "en": [
+          "The Bull (or the Osborne Bull on hills)",
+          "The Flamenco dancer",
+          "The Donkey"
+        ],
+        "es": [
+          "El toro (o el de Osborne en las colinas)",
+          "La bailaora de flamenco",
+          "El burro"
+        ]
+      },
+      "answer": 0
+    },
+    {
+      "question": {
+        "de": "Wie viele Amtssprachen gibt es in Spanien?",
+        "en": "How many official languages are in Spain?",
+        "es": "¿Cuántas lenguas oficiales hay en España?"
+      },
+      "options": {
+        "de": [
+          "Nur eine (Spanisch)",
+          "Fünf",
+          "Hundert (jeder Dialekt zählt)"
+        ],
+        "en": [
+          "Only one (Spanish)",
+          "Five",
+          "A hundred (every dialect counts)"
+        ],
+        "es": [
+          "Solo una (el español)",
+          "Cinco",
+          "Cien (cada dialecto cuenta)"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Was ist der 'Botellón'?",
+        "en": "What is the 'Botellón'?",
+        "es": "¿Qué es un 'botellón'?"
+      },
+      "options": {
+        "de": [
+          "Eine grosse Wasserflasche",
+          "Trinken auf der Strasse mit Freunden",
+          "Eine traditionelle Tanzform"
+        ],
+        "en": [
+          "A large water bottle",
+          "Drinking in the street with friends",
+          "A traditional dance form"
+        ],
+        "es": [
+          "Una botella de agua grande",
+          "Beber en la calle con amigos",
+          "Un baile tradicional"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Was ist ein 'Guiri'?",
+        "en": "What is a 'Guiri'?",
+        "es": "¿Qué es un 'guiri'?"
+      },
+      "options": {
+        "de": [
+          "Ein lokaler Superheld",
+          "Ein Tourist, der Socken in Sandalen trägt",
+          "Ein spezielles Gebäck"
+        ],
+        "en": [
+          "A local superhero",
+          "A tourist wearing socks with sandals",
+          "A special pastry"
+        ],
+        "es": [
+          "Un superhéroe local",
+          "Un turista con calcetines y sandalias",
+          "Un dulce especial"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Was passiert, wenn man pünktlich zu einer Party in Spanien erscheint?",
+        "en": "What happens if you arrive on time to a party in Spain?",
+        "es": "¿Qué pasa si llegas puntual a una fiesta en España?"
+      },
+      "options": {
+        "de": [
+          "Man bekommt eine Medaille",
+          "Man hilft dem Gastgeber beim Aufräumen",
+          "Man ist der einzige Gast für die nächsten 2 Stunden"
+        ],
+        "en": [
+          "You get a medal",
+          "You'll be helping the host clean",
+          "You'll be the only guest for the next 2 hours"
+        ],
+        "es": [
+          "Te dan una medalla",
+          "Acabas ayudando al anfitrión a limpiar",
+          "Eres el único invitado durante las próximas 2 horas"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Was ist 'Jamón Ibérico'?",
+        "en": "What is 'Jamón Ibérico'?",
+        "es": "¿Qué es el jamón ibérico?"
+      },
+      "options": {
+        "de": [
+          "Eine Art Marmelade",
+          "Die einzige Religion, auf die sich alle einigen können",
+          "Ein berühmter Fussballer"
+        ],
+        "en": [
+          "A type of jam",
+          "The only religion everyone agrees on",
+          "A famous footballer"
+        ],
+        "es": [
+          "Un tipo de mermelada",
+          "La única religión en la que todos están de acuerdo",
+          "Un futbolista famoso"
+        ]
+      },
+      "answer": 1
+    },
+    {
+      "question": {
+        "de": "Warum gibt es in spanischen Strassen so viele Apotheken?",
+        "en": "Why do Spanish streets have so many pharmacies?",
+        "es": "¿Por qué hay tantas farmacias en las calles españolas?"
+      },
+      "options": {
+        "de": [
+          "Um die Kater von all den Bars zu heilen",
+          "Weil Spanier gerne Pillen sammeln",
+          "Es sind eigentlich getarnte Bars"
+        ],
+        "en": [
+          "To cure the hangovers from all the bars",
+          "Because Spaniards love collecting pills",
+          "They are actually disguised bars"
+        ],
+        "es": [
+          "Para curar las resacas de tantos bares",
+          "Porque a los españoles les gusta coleccionar pastillas",
+          "En realidad son bares camuflados"
+        ]
+      },
+      "answer": 0
+    }
+  ],
+  "route": [
+    {
+      "lat": 40.440289,
+      "lng": -3.691306,
+      "name": "Paseo de la Castellana (Start)",
+      "km": 0
+    },
+    {
+      "lat": 40.455566,
+      "lng": -3.686932,
+      "name": "Plaza de Castilla",
+      "km": 2.1
+    },
+    {
+      "lat": 40.465529,
+      "lng": -3.690682,
+      "name": "Bravo Murillo",
+      "km": 3.6
+    },
+    {
+      "lat": 40.45684,
+      "lng": -3.701866,
+      "name": "Cuatro Caminos",
+      "km": 5.1
+    },
+    {
+      "lat": 40.445359,
+      "lng": -3.685749,
+      "name": "Raimundo Fernández Villaverde",
+      "km": 7.7
+    },
+    {
+      "lat": 40.427464,
+      "lng": -3.668501,
+      "name": "Joaquín Costa",
+      "km": 10.2
+    },
+    {
+      "lat": 40.421457,
+      "lng": -3.682729,
+      "name": "Príncipe de Vergara",
+      "km": 12.1
+    },
+    {
+      "lat": 40.425571,
+      "lng": -3.680028,
+      "name": "Parque del Retiro",
+      "km": 13.1
+    },
+    {
+      "lat": 40.425258,
+      "lng": -3.683946,
+      "name": "Alfonso XII",
+      "km": 14.6
+    },
+    {
+      "lat": 40.433063,
+      "lng": -3.687011,
+      "name": "Estación de Atocha",
+      "km": 16.1
+    },
+    {
+      "lat": 40.428985,
+      "lng": -3.701619,
+      "name": "Paseo del Prado",
+      "km": 17.7
+    },
+    {
+      "lat": 40.425265,
+      "lng": -3.707393,
+      "name": "Plaza de Cibeles",
+      "km": 18.6
+    },
+    {
+      "lat": 40.41674,
+      "lng": -3.703544,
+      "name": "Puerta de Alcalá",
+      "km": 19.6
+    },
+    {
+      "lat": 40.41662,
+      "lng": -3.700198,
+      "name": "Velázquez",
+      "km": 19.9
+    },
+    {
+      "lat": 40.415552,
+      "lng": -3.694789,
+      "name": "Goya",
+      "km": 20.4
+    },
+    {
+      "lat": 40.422017,
+      "lng": -3.691725,
+      "name": "Paseo de Recoletos (Finish)",
+      "km": 21.2
+    }
+  ]
+}

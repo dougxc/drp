@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-spain-red: #AA151B;
+  --color-spain-yellow: #F1BF00;
+}
+
+body {
+  @apply bg-gray-100 font-sans;
+}
+
+.spain-card {
+  @apply bg-white rounded-lg shadow-xl overflow-hidden border-t-8 border-spain-red;
+}
+
+.btn-spain {
+  @apply bg-spain-red text-white font-bold py-2 px-4 rounded hover:bg-red-700 transition-colors duration-200;
+}
+
+.btn-option {
+  @apply block w-full text-left p-4 border-2 border-gray-200 rounded-lg hover:border-spain-red hover:bg-yellow-50 transition-all duration-200;
+}
+
+.btn-option.correct {
+  @apply border-green-500 bg-green-50;
+}
+
+.btn-option.incorrect {
+  @apply border-spain-red bg-red-50;
+}
